@@ -27,6 +27,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.wallpapers_loc_request_suw=true
 
 # Bootanimation
+<<<<<<< HEAD
 ifeq ($(TARGET_BOOT_ANIMATION_RES),720)
      PRODUCT_COPY_FILES += $(LOCAL_PATH)/bootanimation/bootanimation_720.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanim$
 else ifeq ($(TARGET_BOOT_ANIMATION_RES),1080)
