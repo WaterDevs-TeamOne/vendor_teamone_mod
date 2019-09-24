@@ -2,8 +2,8 @@
 ### By Teamone ###
 
 ### Contributers/Members ###
-* [**Mohd Faraz(androiabledroid)**](t.me/androiabledroid)
-* [**Inderpreet Singh Bhangu(IPSBHANGU)**](t.me/IPSBHANGU)
-* [**Ashley David(Ashpd)**](t.me/Ashpd)
-* [**Gautam Maini(mainigautam)**](t.me/mainigautam)
-* [**Prathamesh Dhawale(prathameshdhawale)**](t.me/prathameshdhawale)
+* [**Mohd Faraz(androiabledroid)**](https://t.me/androiabledroid)
+* [**Inderpreet Singh Bhangu(IPSBHANGU)**](https://t.me/IPSBHANGU)
+* [**Ashley David(Ashpd)**](https://t.me/Ashpd)
+* [**Gautam Maini(mainigautam)**](https://t.me/mainigautam)
+* [**Prathamesh Dhawale(prathameshdhawale)**](https://t.me/prathameshdhawale)
